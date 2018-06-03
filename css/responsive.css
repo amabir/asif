@@ -13,7 +13,6 @@
     right: 40px;
     top: 50%;
     transform: translate(-20%, -50%);
-    z-index: 1000;
     box-shadow: 15px 15px 15px #000, -15px -15px 15px #000;
     border-radius: 10px;
     border: 2px solid #000;
@@ -35,7 +34,6 @@
     right: 30px;
     top: 50%;
     transform: translate(-10%, -50%);
-    z-index: 1000;
     box-shadow: 15px 15px 15px #000, -15px -15px 15px #000;
     border-radius: 10px;
     border: 2px solid #000;
@@ -58,7 +56,6 @@
     right: 20px;
     top: 50%;
     transform: translate(-5%, -50%);
-    z-index: 1000;
     box-shadow: 15px 15px 15px #000, -15px -15px 15px #000;
     border-radius: 10px;
     border: 2px solid #000;
